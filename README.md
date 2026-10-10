@@ -63,34 +63,34 @@
 - 18\. Power Sets
 - 19\. Russell's Paradox
 - 20\. Halting Problem
-- 21\. Ordered n-tuple
-- 22\. Cartesian Product of ordered n-tuple
 
 ### 06. Relations
 
-- 01\. n-ary Relation
-- 02\. Binary Relations
-- 03\. Reflexive Relation
-- 04\. Symmetric Relation
-- 05\. Antisymmetric Relation
-- 06\. Transitive Relation
-- 07\. Transitive Closure of a Relation
-- 08\. Equivalence Relations
-- 09\. Equivalence Class
-- 10\. Representative of the Class
-- 11\. Quotient Sets
-- 12\. Partitions
-- 13\. Partial Order Relations
-- 14\. Partially Ordered Set
-- 15\. Comparable and Noncomparable
-- 16\. Compatibility of Relation
-- 17\. Total Order Relation
-- 18\. Totally Ordered Sets
-- 19\. Chain of Set
-- 20\. Maximal Element of Set
-- 21\. Greatest Element of Set
-- 22\. Minimal Element of Set
-- 23\. Least Element of Set
+- 01\. Ordered n-tuple
+- 02\. Cartesian Product of ordered n-tuple
+- 03\. n-ary Relation
+- 04\. Binary Relations
+- 05\. Reflexive Relation
+- 06\. Symmetric Relation
+- 07\. Antisymmetric Relation
+- 08\. Transitive Relation
+- 09\. Transitive Closure of a Relation
+- 10\. Equivalence Relations
+- 11\. Equivalence Class
+- 12\. Representative of the Class
+- 13\. Quotient Sets
+- 14\. Partitions
+- 15\. Partial Order Relations
+- 16\. Partially Ordered Set
+- 17\. Comparable and Noncomparable
+- 18\. Compatibility of Relation
+- 19\. Total Order Relation
+- 20\. Totally Ordered Sets
+- 21\. Chain of Set
+- 22\. Maximal Element of Set
+- 23\. Greatest Element of Set
+- 24\. Minimal Element of Set
+- 25\. Least Element of Set
 
 ### 07. Functions
 
