@@ -70,27 +70,28 @@
 - 02\. Cartesian Product of ordered n-tuple
 - 03\. n-ary Relation
 - 04\. Binary Relations
-- 05\. Reflexive Relation
-- 06\. Symmetric Relation
-- 07\. Antisymmetric Relation
-- 08\. Transitive Relation
-- 09\. Transitive Closure of a Relation
-- 10\. Equivalence Relations
-- 11\. Equivalence Class
-- 12\. Representative of the Class
-- 13\. Quotient Sets
-- 14\. Partitions
-- 15\. Partial Order Relations
-- 16\. Partially Ordered Set
-- 17\. Comparable and Noncomparable
-- 18\. Compatibility of Relation
-- 19\. Total Order Relation
-- 20\. Totally Ordered Sets
-- 21\. Chain of Set
-- 22\. Maximal Element of Set
-- 23\. Greatest Element of Set
-- 24\. Minimal Element of Set
-- 25\. Least Element of Set
+- 05\. Relation on a Set
+- 06\. Reflexive Relation
+- 07\. Symmetric Relation
+- 08\. Antisymmetric Relation
+- 09\. Transitive Relation
+- 10\. Transitive Closure of a Relation
+- 11\. Equivalence Relations
+- 12\. Equivalence Class
+- 13\. Representative of the Class
+- 14\. Quotient Sets
+- 15\. Partitions
+- 16\. Partial Order Relations
+- 17\. Partially Ordered Set
+- 18\. Comparable and Noncomparable
+- 19\. Compatibility of Relation
+- 20\. Total Order Relation
+- 21\. Totally Ordered Sets
+- 22\. Chain of Set
+- 23\. Maximal Element of Set
+- 24\. Greatest Element of Set
+- 25\. Minimal Element of Set
+- 26\. Least Element of Set
 
 ### 07. Functions
 
